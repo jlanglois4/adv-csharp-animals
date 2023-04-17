@@ -1,0 +1,7 @@
+C:\Users\jo\RiderProjects\adv-csharp-animals\adv-csharp-animals\obj\Debug\adv-csharp-animals.csproj.AssemblyReference.cache
+C:\Users\jo\RiderProjects\adv-csharp-animals\adv-csharp-animals\obj\Debug\adv-csharp-animals.csproj.CoreCompileInputs.cache
+C:\Users\jo\RiderProjects\adv-csharp-animals\adv-csharp-animals\bin\Debug\adv_csharp_animals.exe
+C:\Users\jo\RiderProjects\adv-csharp-animals\adv-csharp-animals\bin\Debug\adv_csharp_animals.pdb
+C:\Users\jo\RiderProjects\adv-csharp-animals\adv-csharp-animals\obj\Debug\adv_csharp_animals.exe
+C:\Users\jo\RiderProjects\adv-csharp-animals\adv-csharp-animals\obj\Debug\adv_csharp_animals.pdb
+C:\Users\jo\RiderProjects\adv-csharp-animals\adv-csharp-animals\bin\Debug\animals.txt
